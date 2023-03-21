@@ -1,9 +1,11 @@
 # Quick and dirty reMarkable2 KOReader toggler
 
+forked and updated to latest koreader march 2023 by neonfuz
+
 ## Install
 
 ```
-sh -c "$(wget https://raw.githubusercontent.com/ddvk/remarkable-autoinstall/master/rm2/auto_rm2.sh -O-)" 
+sh -c "$(wget https://raw.githubusercontent.com/neonfuz/remarkable-autoinstall/master/rm2/auto_rm2.sh -O-)" 
 ```
 
 ## Usage
